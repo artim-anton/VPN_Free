@@ -3,7 +3,7 @@ package com.artimanton.vpnfree
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class ServerList_Activity : AppCompatActivity() {
+class ServerListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_server_list)

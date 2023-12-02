@@ -13,7 +13,7 @@
         android:theme="@style/Theme.VPNFree"
         tools:targetApi="31">
         <activity
-            android:name=".ServerList_Activity"
+            android:name=".ServerListActivity"
             android:exported="false" />
         <activity
             android:name=".SettingActivity"
