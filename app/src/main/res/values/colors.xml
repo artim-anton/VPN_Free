@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#223B91</color>
+    <color name="colorPrimaryVariant">#133095</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="greyscale_100">#FAFAFA</color>
+    <color name="greyscale_200">#ECECED</color>
+    <color name="greyscale_300">#CFD0D1</color>
+    <color name="greyscale_400">#AFB0B3</color>
+    <color name="greyscale_500">#8F9195</color>
+    <color name="greyscale_700">#343639</color>
+    <color name="greyscale_800">#2B2C2E</color>
+    <color name="greyscale_900">#212224</color>
+    <color name="greyscale_1000">#131415</color>
+    <color name="blue_light">#3B53A5</color>
+    <color name="progress_download_screen">@color/greyscale_200</color>
+</resources>
