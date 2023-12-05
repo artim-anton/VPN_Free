@@ -55,4 +55,7 @@ dependencies {
     implementation ("com.airbnb.android:lottie:3.4.0")
     implementation ("androidx.databinding:databinding-runtime:8.1.4")
     testImplementation ("com.android.databinding:compiler:3.1.4")
+
+    //CircleImage (https://github.com/hdodenhof/CircleImageView)
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
 }
