@@ -18,7 +18,7 @@
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             android:layout_alignParentEnd="true"
-            app:cardBackgroundColor="@color/blue_light"
+            app:cardBackgroundColor="@color/light_blue"
             app:cardElevation="10dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -167,7 +167,7 @@
                     app:cardBackgroundColor="@color/white"
                     app:cardCornerRadius="10dp"
                     app:cardElevation="5dp"
-                    app:strokeColor="@color/blue_light"
+                    app:strokeColor="@color/light_blue"
                     app:strokeWidth="3dp">
 
                     <LinearLayout
@@ -218,7 +218,7 @@
                     app:cardBackgroundColor="@color/white"
                     app:cardCornerRadius="10dp"
                     app:cardElevation="5dp"
-                    app:strokeColor="@color/blue_light"
+                    app:strokeColor="@color/light_blue"
                     app:strokeWidth="3dp">
 
                     <LinearLayout
@@ -277,7 +277,7 @@
                 android:layout_marginTop="20dp"
                 app:cardBackgroundColor="@color/white"
                 app:cardCornerRadius="10dp"
-                app:strokeColor="@color/blue_light"
+                app:strokeColor="@color/light_blue"
                 app:strokeWidth="2dp"
                 tools:layout_editor_absoluteX="30dp">
 
@@ -289,7 +289,10 @@
                         android:layout_width="30dp"
                         android:layout_height="30dp"
                         android:layout_centerVertical="true"
-                        android:layout_margin="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginEnd="5dp"
+                        android:layout_marginBottom="5dp"
                         android:src="@drawable/flag_of_canada" />
 
                     <TextView
@@ -317,7 +320,7 @@
                         <RadioButton
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:backgroundTint="@color/blue_light" />
+                            android:backgroundTint="@color/light_blue" />
 
                     </LinearLayout>
                 </RelativeLayout>
@@ -331,7 +334,7 @@
                 android:layout_marginTop="10dp"
                 app:cardBackgroundColor="@color/white"
                 app:cardCornerRadius="10dp"
-                app:strokeColor="@color/blue_light"
+                app:strokeColor="@color/light_blue"
                 app:strokeWidth="2dp"
                 tools:layout_editor_absoluteX="30dp">
 
@@ -371,7 +374,7 @@
                         <RadioButton
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:backgroundTint="@color/blue_light" />
+                            android:backgroundTint="@color/light_blue" />
 
                     </LinearLayout>
                 </RelativeLayout>
@@ -385,7 +388,7 @@
                 android:layout_marginTop="10dp"
                 app:cardBackgroundColor="@color/white"
                 app:cardCornerRadius="10dp"
-                app:strokeColor="@color/blue_light"
+                app:strokeColor="@color/light_blue"
                 app:strokeWidth="2dp"
                 tools:layout_editor_absoluteX="30dp">
 
@@ -425,7 +428,7 @@
                         <RadioButton
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:backgroundTint="@color/blue_light" />
+                            android:backgroundTint="@color/light_blue" />
 
                     </LinearLayout>
                 </RelativeLayout>
@@ -439,7 +442,7 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_margin="10dp"
-            app:cardBackgroundColor="@color/blue_light"
+            app:cardBackgroundColor="@color/light_blue"
             app:cardCornerRadius="50dp"
             app:cardElevation="10dp"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -483,7 +486,7 @@
         android:focusableInTouchMode="true"
         app:headerLayout="@layout/nav_header_layout"
         app:menu="@menu/nav_menu"
-        app:itemIconTint="@color/blue_light"
+        app:itemIconTint="@color/light_blue"
         app:itemTextColor="@color/black"
         app:itemRippleColor="#7FD7FD"/>
 </androidx.drawerlayout.widget.DrawerLayout>

@@ -24,7 +24,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="105dp"
-        app:trackColor="@color/blue_light"
+        app:trackColor="@color/light_blue"
         app:indicatorColor="@color/white"
         app:trackThickness="4dp"
         app:trackCornerRadius="8dp"

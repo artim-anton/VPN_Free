@@ -13,6 +13,6 @@
     <color name="greyscale_800">#2B2C2E</color>
     <color name="greyscale_900">#212224</color>
     <color name="greyscale_1000">#131415</color>
-    <color name="blue_light">#3B53A5</color>
+    <color name="light_blue">#3B53A5</color>
     <color name="progress_download_screen">@color/greyscale_200</color>
 </resources>

@@ -11,7 +11,7 @@
         style="@style/CustomCardViewStyle"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        app:cardBackgroundColor="@color/blue_light"
+        app:cardBackgroundColor="@color/light_blue"
         app:cardElevation="10dp">
 
         <RelativeLayout
@@ -31,7 +31,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_gravity="bottom"
                 android:layout_margin="20dp"
-                app:cardBackgroundColor="@color/blue_light"
+                app:cardBackgroundColor="@color/light_blue"
                 app:cardCornerRadius="10dp"
                 app:cardElevation="10dp"
                 app:strokeColor="@color/white"
@@ -71,7 +71,7 @@
         android:layout_margin="20dp"
         android:fontFamily="sans-serif-black"
         android:text="All servers"
-        android:textColor="@color/blue_light"
+        android:textColor="@color/light_blue"
         android:textSize="20sp" />
 
     <androidx.recyclerview.widget.RecyclerView

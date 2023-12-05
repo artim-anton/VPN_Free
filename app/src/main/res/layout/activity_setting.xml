@@ -12,7 +12,7 @@
         style="@style/CustomCardViewStyle"
         android:layout_width="match_parent"
         android:layout_height="90dp"
-        app:cardBackgroundColor="@color/blue_light">
+        app:cardBackgroundColor="@color/light_blue">
 
         <View
             android:layout_width="30dp"
@@ -28,7 +28,7 @@
         android:layout_margin="10dp"
         android:fontFamily="sans-serif-black"
         android:text="Setting"
-        android:textColor="@color/blue_light"
+        android:textColor="@color/light_blue"
         android:textSize="20sp" />
 
     <ScrollView
